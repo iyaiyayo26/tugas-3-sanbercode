@@ -32,8 +32,8 @@ npm -v
 Clone this repository and install the required dependencies:
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/iyaiyayo26/tugas-3-sanbercode.git
+cd tugas-3-sanbercode
 npm install
 ```
 
